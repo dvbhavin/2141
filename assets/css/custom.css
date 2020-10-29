@@ -1,0 +1,12 @@
+/*** Font size ***/
+.fs-19 { font-size: 19px !important; }
+/*** margin top ***/
+.mt-25 { margin-top: -25px !important; }
+/*** heights ***/
+.max-h-70 { max-height: 70px !important; }
+/*** colors ***/
+.text-blue { color: #192554 !important; }
+.text-white { color: #fff !important; }
+.current { font-weight: 800 !important; color: #f3c936 !important; }
+
+.delete-budget { cursor: pointer; position: absolute; left: -10px !important; top: -10px !important; }
